@@ -1,0 +1,9 @@
+.idea
+*.log
+*.pot
+*.pyc
+local_settings.py
+.DS_Store
+booking_cache
+.bower-cache
+.bower-registry
